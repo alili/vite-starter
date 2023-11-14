@@ -1,7 +1,7 @@
 {
   "i18n-ally.localesPaths": "src/locale", // 相对于项目根目录的语言环境目录路径
   "i18n-ally.sourceLanguage": "zh", // 根据此语言文件翻译其他语言文件的变量和内容
-  "i18n-ally.displayLanguage": "en", // 显示语言
+  "i18n-ally.displayLanguage": "zh", // 显示语言
   "i18n-ally.keystyle": "nested", // 翻译后变量格式 nested：嵌套式  flat:扁平式
   "i18n-ally.preferredDelimiter": "_",
   "i18n-ally.sortKeys": true,
